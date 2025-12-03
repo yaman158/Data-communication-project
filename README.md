@@ -1,0 +1,1 @@
+Hata almamanız için sırasıyla Client2.exe, Server.exe ve Client1.exe'yi çalıştırmanız lazım eğer kodu kendiniz inceleyip çalıştırmak istiyorsanız cpp uzantılı dosyaları değil dev uzantılı dosyaları tercih edin (linker ayarı). sadece inceleyecekseniz cpp uzantılı dosyaları açıp inceleyebilirsiniz ama muhtmelen compile etmeye çalıştığınızda socket hata verecektir.
