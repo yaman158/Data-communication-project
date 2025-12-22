@@ -1,0 +1,1 @@
+Sırasıyla CLient2, Server, Client1 exe dosyalarını çalıştırınız. eğer compile etmek istioyrsanız dev uzantılı dosyayı açarak compile edin. eğer sadece kodu inceleyecekseniz cpp uzantılı dosyayı açmaktan problem olmaz.
